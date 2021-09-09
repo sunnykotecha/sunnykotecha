@@ -3,9 +3,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## I'm a Husband, Father and a Developer!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning React
+- 🥅 2021 Goals: Learn as much as I can!
 - ⚡ Fun fact: I love to travel, cook and do DIY
 
 🔗 &nbsp;**Connect with me**
